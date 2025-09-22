@@ -1,7 +1,8 @@
 h1 {
     color: blue;
     text-align: center;
-    font-family:'Franklin Gothic Medium';
+    font-family:'Zen Tokyo Zoo', sans-serif;
+    background-color: darkgoldenrod;
 }
 
 figcaption {
@@ -11,13 +12,13 @@ figcaption {
 h2 {
     background-color: darkgoldenrod;
     text-align: center;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 section {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 footer {
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
