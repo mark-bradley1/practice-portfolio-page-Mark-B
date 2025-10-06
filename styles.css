@@ -1,8 +1,12 @@
 h1 {
-    color: blue;
+    color: black;
     text-align: center;
     font-family:'Zen Tokyo Zoo', sans-serif;
     background-color: darkgoldenrod;
+}
+
+ul {
+    font-family:'Courier New', Courier, monospace
 }
 
 figcaption {
@@ -15,10 +19,16 @@ h2 {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+p {
+    font-family:'Segoe Print', 'Bradley Hand', 'Chilanka', 'casual', 'cursive', sans-serif;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
 section {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 footer {
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
 }
